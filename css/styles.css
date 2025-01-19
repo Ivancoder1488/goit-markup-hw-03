@@ -183,7 +183,7 @@ padding: 120px 0;
   display: flex;
   gap: 24px;
  }
- .list-tech{
+ .item-tech{
   width: calc((100% - 3 * 24px) / 4);
  }
  .li-feature-tittle{
