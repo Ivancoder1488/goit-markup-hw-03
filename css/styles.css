@@ -183,6 +183,10 @@ padding: 120px 0;
   background-color: #F4F4FD
   padding: 120px 0
 }
+.list-tech{
+  display: flex;
+  gap: 24px;
+}
 .title-team{
   font-size: 36px;
   line-height: 1.11;
