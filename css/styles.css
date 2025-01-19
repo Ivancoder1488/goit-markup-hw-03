@@ -185,10 +185,9 @@ padding: 120px 0;
  }
  .list-tech{
   width: calc((100% - 72px) / 4);
- }
- .item-tech{
   margin-bottom: 8px;
  }
+
 .section-three{
   background-color: #F4F4FD;
   padding: 120px 0;
