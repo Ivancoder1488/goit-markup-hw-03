@@ -7,7 +7,9 @@ body {
   background-color: #ffffff;
   font-style: normal;
 }
-
+.header{
+  border-bottom: 1px solid #e7e9fc;
+}
 .logo-one-prtfl {
   color: #4D5AE5;
   font-family: "Raleway", sans-serif;
