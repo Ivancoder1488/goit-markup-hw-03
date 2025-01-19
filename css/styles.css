@@ -179,6 +179,11 @@ font-family: 'Roboto';
 .section-two{
 padding: 120px 0;
 }
+ .visually-hidden{
+  display: flex;
+  gap: 24px;
+  width: calc((100% - 72px)
+ }
 .section-three{
   background-color: #F4F4FD
   padding: 120px 0
