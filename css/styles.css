@@ -256,8 +256,13 @@ flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;
 }
-.list-our{
+.item-our{
 width: calc((100% - 48px) / 3);
+}
+.con-title-our{
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .title-our{
   line-height: 1.11;
@@ -271,6 +276,7 @@ width: calc((100% - 48px) / 3);
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2e2f42;
+  margin-bottom: 8px;
 }
 .par-item{
   letter-spacing: 0.02em;
