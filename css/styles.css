@@ -179,10 +179,15 @@ font-family: 'Roboto';
 .section-two{
 padding: 120px 0;
 }
- .visually-hidden{
+.visually-hidden{
   display: flex;
   gap: 24px;
-width: calc((100% - 72px) / 4);
+ }
+ .item-tech{
+  width: calc((100% - 72px) / 4);
+ }
+ .li-feature-tittle{
+  margin-bottom: 8px;
  }
 .section-three{
   background-color: #F4F4FD;
