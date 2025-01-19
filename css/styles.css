@@ -35,7 +35,7 @@ body {
   font-style: normal;
 }
 img{
-  display: block
+  display: block;
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
@@ -48,12 +48,14 @@ img{
   width: 1158px;
   padding: 0 15px
 }
+.menu-nav{
+  display: flex;
+    gap: 40px;
+    padding: 24px 0;
+}
 .nav-head{
   display: flex;
   align-items: center;
-  display: flex;
-  gap: 40px;
-  padding: 24px 0;
 }
 .logo-one-prtfl {
   color: #4D5AE5;
