@@ -97,6 +97,7 @@ img{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 
 }
 
@@ -104,6 +105,7 @@ img{
   letter-spacing: 0.02em;
   font-style: normal;
   color:#434455;
+  margin-left: auto;
 }
 .add-con{
   display: flex;
@@ -174,6 +176,9 @@ font-family: 'Roboto';
     font-size: 36px;
     line-height: 0.6;
     color: #2E2F42;
+}
+.section-two{
+padding: 120px 0;
 }
 .section-three{
   background-color: #F4F4FD
