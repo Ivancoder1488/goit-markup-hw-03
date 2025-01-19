@@ -185,6 +185,8 @@ padding: 120px 0;
  }
  .list-tech{
   width: calc((100% - 72px) / 4);
+ }
+ .li-feature-tittle{
   margin-bottom: 8px;
  }
 
