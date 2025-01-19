@@ -104,8 +104,10 @@ img{
   letter-spacing: 0.02em;
   font-style: normal;
   color:#434455;
+}
+.add-con{
   display: flex;
-  gap: 40px;
+    gap: 40px;
 }
 .add-list{
 color:#434455;
