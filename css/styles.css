@@ -182,11 +182,22 @@ padding: 120px 0;
  .visually-hidden{
   display: flex;
   gap: 24px;
-  width: calc((100% - 72px)
+width: calc((100% - 72px) / 4);
  }
 .section-three{
   background-color: #F4F4FD
-  padding: 120px 0
+  padding: 120px 0;
+}
+.title-team{
+margin-bottom: 72px;
+}
+.list-team{
+  display: flex;
+  gap: 24px;
+}
+.item-team{
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 .list-tech{
   display: flex;
