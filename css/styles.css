@@ -49,6 +49,8 @@ img{
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 .menu-nav{
   display: flex;
