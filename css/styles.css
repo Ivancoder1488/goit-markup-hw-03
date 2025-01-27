@@ -27,7 +27,9 @@ dl,
 dd {
   margin: 0;
 }
-
+a{
+  display: block;
+}
 body {
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
@@ -125,9 +127,7 @@ color:#434455;
     text-align: center;
     padding: 188px 0;
 }
-.hero-container{
 
-}
 .hero-tittle{
         color: #FFFFFF;
         font-size: 56px;
